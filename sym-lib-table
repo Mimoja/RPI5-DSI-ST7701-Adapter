@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "molex 1x22")(type "KiCad")(uri "${KIPRJMOD}/lib-schem/CONN_54548-2271_MOL.kicad_sym")(options "")(descr ""))
+  (lib (name "tec")(type "KiCad")(uri "${KIPRJMOD}/lib-schem/CONN15_1-84982-5_TEC.kicad_sym")(options "")(descr ""))
+  (lib (name "Amphenol SFW15R-2STE1LF")(type "KiCad")(uri "${KIPRJMOD}/lib-schem/CON15_1X15_DRB_SFW_FCI.kicad_sym")(options "")(descr ""))
+)

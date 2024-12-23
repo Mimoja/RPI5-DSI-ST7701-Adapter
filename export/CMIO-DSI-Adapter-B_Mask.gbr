@@ -1,0 +1,27 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4+dfsg-1*%
+%TF.CreationDate,2024-12-23T16:36:02+01:00*%
+%TF.ProjectId,CMIO-DSI-Adapter,434d494f-2d44-4534-992d-416461707465,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.4+dfsg-1) date 2024-12-23 16:36:02*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10O,1.700000X1.700000*%
+%ADD11R,1.700000X1.700000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J3*%
+X31181809Y-29250000D03*
+X31181809Y-31790000D03*
+X31181809Y-34330000D03*
+X31181809Y-36870000D03*
+X31181809Y-39410000D03*
+D11*
+X31181809Y-41950000D03*
+%TD*%
+M02*
